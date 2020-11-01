@@ -1,7 +1,7 @@
 pragma solidity ^0.4.24;
 
-import "./IERC20.sol";
-import "../../math/SafeMath.sol";
+import "https://github.com/masterchefplus/openzeppelin-solidity/blob/master/contracts/token/ERC20/IERC20.sol";
+import "https://github.com/masterchefplus/openzeppelin-solidity/blob/master/contracts/math/SafeMath.sol";
 
 
 /**
