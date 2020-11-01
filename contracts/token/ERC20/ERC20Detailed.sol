@@ -1,4 +1,4 @@
-pragma solidity ^0.4.24;
+pragma solidity >=0.4.24;
 
 import "https://github.com/masterchefplus/openzeppelin-solidity/blob/master/contracts/token/ERC20/IERC20.sol";
 
