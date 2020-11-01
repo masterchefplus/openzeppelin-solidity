@@ -1,7 +1,7 @@
 pragma solidity ^0.4.24;
 
-import "./ERC20.sol";
-import "../../access/roles/MinterRole.sol";
+import "https://github.com/masterchefplus/openzeppelin-solidity/blob/master/contracts/token/ERC20/ERC20.sol";
+import "https://github.com/masterchefplus/openzeppelin-solidity/blob/master/contracts/access/roles/MinterRole.sol";
 
 
 /**
